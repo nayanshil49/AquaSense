@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141546835516",
+    "project_id": "aquasense-app",
+    "storage_bucket": "aquasense-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141546835516:android:e652f6201a7c7952a7bd39",
+        "android_client_info": {
+          "package_name": "com.example.aquasense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNA8tkAwq9BVjN9sRAIBe-vWqlp1xB2Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
